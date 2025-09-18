@@ -1,8 +1,11 @@
-@import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Ink:wght@100..900&family=WDXL+Lubrifont+JP+N&display=swap');
+@import "tailwindcss";
+
 @theme{
   --color-ben: #ce09e3;
   --color-may: #95ff00;
+  --font-bit: "Bitcount Ink", system-ui;
+  --font-WDXL: "WDXL Lubrifont JP N", sans-serif;
 }
 
 @layer components{
