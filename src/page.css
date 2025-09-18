@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Ink:wght@100..900&family=WDXL+Lubrifont+JP+N&display=swap');
 @import "tailwindcss";
 
+.a{
+  box-shadow: 0 0 blur width #fff;
+  color: #4c4c4c98;
+}
+
 @theme{
   --color-ben: #ce09e3;
   --color-may: #95ff00;
@@ -13,6 +18,7 @@
   --radius-ellipse: 50%;
   --border-width-ben1: 100px;
   --border-width-may1: 200px;
+  --shadow-ben1: 0 0 12px #4c4c4c98;
 }
 
 @layer components{
