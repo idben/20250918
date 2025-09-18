@@ -6,6 +6,9 @@
   --color-may: #95ff00;
   --font-bit: "Bitcount Ink", system-ui;
   --font-WDXL: "WDXL Lubrifont JP N", sans-serif;
+  --font-ben: "Bitcount Ink", "WDXL Lubrifont JP N", sans-serif;
+  --spacing-ben: 22px;
+  --spacing-may: 11px;
 }
 
 @layer components{
