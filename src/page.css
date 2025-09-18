@@ -11,6 +11,8 @@
   --spacing-may: 11px;
   --radius-pill: 999999px;
   --radius-ellipse: 50%;
+  --border-width-ben1: 100px;
+  --border-width-may1: 200px;
 }
 
 @layer components{
