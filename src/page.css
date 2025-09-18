@@ -1,6 +1,8 @@
 @import "tailwindcss";
-.btn1{
-  @apply bg-blue-400 text-white p-1 px-4 inline-block
-            rounded-md cursor-pointer select-none text-center text-2xl
-            hover:bg-blue-500 w-full;
+@layer components{
+  .btn1{
+    @apply bg-blue-400 text-white p-1 px-4 inline-block
+              rounded-md cursor-pointer select-none text-center text-2xl
+              hover:bg-blue-500 w-full;
+  }
 }
