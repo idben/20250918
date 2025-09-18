@@ -18,7 +18,7 @@
   --radius-ellipse: 50%;
   --border-width-ben1: 100px;
   --border-width-may1: 200px;
-  --shadow-ben1: 0 0 12px #4c4c4c98;
+  --shadow-ben1: 0 0 12px 12px #4c4c4c98;
 }
 
 @layer components{
