@@ -7,8 +7,10 @@
   --font-bit: "Bitcount Ink", system-ui;
   --font-WDXL: "WDXL Lubrifont JP N", sans-serif;
   --font-ben: "Bitcount Ink", "WDXL Lubrifont JP N", sans-serif;
-  --spacing-ben: 22px;
+  --spacing-ben: 44px;
   --spacing-may: 11px;
+  --radius-pill: 999999px;
+  --radius-ellipse: 50%;
 }
 
 @layer components{
